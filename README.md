@@ -2,8 +2,7 @@
 
 **Finance Company Loan Eligibility Automation with Fairness Analysis**
 
-dashboard.pbix
-
+[dashboard.pbix](https://github.com/rasha-2712/DSAI4103-Loan-Approval-Pipeline/blob/main/dashboard.pbix)
 ## 📌 Business Problem
 A finance company wants to **automate loan approval** decisions to speed up processing, reduce risk, and ensure fairness across gender and property area groups.  
 This project implements a complete end-to-end machine learning pipeline with strong focus on **model explainability (SHAP)** and **bias/fairness analysis (fairlearn)** — an angle not commonly explored in standard submissions.
