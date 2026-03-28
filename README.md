@@ -2,7 +2,7 @@
 
 **Finance Company Loan Eligibility Automation with Fairness Analysis**
 
-![Power BI Dashboard](https://github.com/rasha-2712/DSAI4103-Loan-Approval-Pipeline/blob/main/dashboard_preview.png)
+dashboard.pbix
 
 ## 📌 Business Problem
 A finance company wants to **automate loan approval** decisions to speed up processing, reduce risk, and ensure fairness across gender and property area groups.  
